@@ -10,14 +10,17 @@ body, html {
     margin-right: auto;
     box-shadow: 10px 10px 0px #8d8d8d;
 }
-.red {
-    background-color: #cc3333;   
+.pink {
+    background-color: #FF1EBB;   
 }
 .blue {
-    background-color: #3A91F2; 
+    background-color: #1EFFEB; 
 }
 .yellow {
     background-color: #D9F23A;   
+}
+.orange {
+    background-color: #E3890F;
 }
 .black {
     background-color: #000000;   
