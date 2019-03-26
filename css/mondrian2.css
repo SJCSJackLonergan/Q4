@@ -22,6 +22,9 @@ body, html {
 .orange {
     background-color: #E3890F;
 }
+.green  {
+    background-color: #56E30F;
+}
 .black {
     background-color: #000000;   
 }
@@ -43,9 +46,6 @@ body, html {
 #column1    {
     width:150px;
 }
-#column2    {
-    width: ;
-}
 #box1 {
     height:90px;
     width:290px;
@@ -55,19 +55,39 @@ body, html {
     width:100px;
 }
 #box3 {
-    height:55px;
+    height:80px;
     width:150px;
 }
 #box4 {
-    height: ;
-    width: ;
+    height:100px;
+    width:90px;
+}
+#box4-2 {
+    height:100px;
+    width:100px;
 }
 #box5 {
-    height: ;
-    width: ;
+    height:100px;
+    width:50px;
+}
+#box6{
+    height:100px;
+    width:300px;
+}
+#box7   {
+    height: 80px;
+    width: 240px;
 }
 #ninetydiv{
     height: 90px;
+    width: 10px;
+}
+#eightydiv  {
+    height: 80px;
+    width: 10px;
+}
+#hundred    {
+    height: 100px;
     width: 10px;
 }
 #wholebar   {
