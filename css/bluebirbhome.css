@@ -1,0 +1,58 @@
+body	{
+	background-color: #0C65A6;
+}
+.bphoto	{
+	background-image: url(../images/skybackground.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+.bphoto	h1	{
+	font-size: 60px;
+	color: #0FE3E0;
+	margin-bottom: 5px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: #A537D8;
+	border-radius: 10px;
+	opacity: .75;
+}
+.button {
+	text-decoration: none;
+	font-size: 30px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: #0FE3E0;
+	border-radius: 10px;
+	color: black;
+	text-transform: uppercase;
+}
+a:hover {
+	background-color: black;
+	color: white;
+}
+#leftcol	{
+	float: left;
+	width: 45%;
+	background-color: #0B51D5;
+	margin: 10px;
+	padding: 10px;
+}
+#rightcol	{
+	float: right;
+	width: 45%;
+	background-color: #A537D8;
+	margin: 10px;
+	padding: 10px;
+}
+#banner 	{
+	width: 80%;
+	margin:0 auto;
+	margin-bottom: 20px;
+	border-radius: 100px;
+}
