@@ -1,0 +1,33 @@
+div	{
+	font-size: 20px;
+	text-align: center;
+
+}
+.box	{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 20px;
+	margin:10px;
+	margin-bottom: 10px;
+	border:2px	black solid;
+}
+h2{
+	 
+}
+.main1 {
+	flex:1;
+	border-right: 2px black solid;
+}
+
+.main2 {
+	flex:2;
+
+	border-top: 2px;
+	border-bottom: 2px;
+}
+
+.main3 {
+	flex:1;
+	border-left: black solid 2px;
+}
