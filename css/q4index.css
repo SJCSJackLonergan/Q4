@@ -50,8 +50,29 @@ a:hover	{
 .main3 {
 	flex:1;
 	border-left: black solid 2px;
+	padding: 0 auto;
 }
 
 h2	{
 	font-family: Tahoma, Geneva, sans-serif;
+}
+li	{
+	margin: 20px;
+}
+.profilepic	{
+	width: 50%;
+	
+}
+p	{
+	width: 80%;
+	font-family: ;
+	font-size: 20px;
+	text-align: center;
+
+}
+.float	{
+	float: right;
+}
+.pagepic	{
+	width: 30%;
 }

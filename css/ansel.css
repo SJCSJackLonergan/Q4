@@ -1,0 +1,29 @@
+.header	{
+	width: 100%;
+}
+.nav	{
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+	padding: 5px;
+
+}
+.grey	{
+	background-color: grey;
+	text-align: center;
+}
+.aspen{
+	background-image: url(../images/aspens_big.jpg);
+	height: 30vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+
+.original	{
+	
+}

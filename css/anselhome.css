@@ -1,0 +1,35 @@
+body	{
+	background-image: url(../images/ansel-portrait.jpg);
+}
+header	{
+	margin: 0 auto;
+}
+
+.title	{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+	color: orange;
+}
+.sub	{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	color: orange;
+}
+.button	{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+	color: white;
+	background-color: orange;
+	border-radius: 10px;
+	width: 20%;
+	text-align: center;
+}
