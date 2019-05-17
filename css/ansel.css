@@ -4,17 +4,17 @@
 .nav	{
 	color: white;
 	text-decoration: none;
-	margin: 10px;
-	padding: 5px;
+	margin: 20px;
 
 }
 .grey	{
 	background-color: grey;
 	text-align: center;
+
 }
 .aspen{
 	background-image: url(../images/aspens_big.jpg);
-	height: 30vh;
+	height: 60vh;
 	background-size: cover;
 	background-position: center;
 	display: flex;
@@ -25,5 +25,68 @@
 }
 
 .original	{
+	background-color: white;
+	font-size: 40px;
+	opacity: .5;
+	padding: 5px;
+
+}
+.ex 	{
+	display: flex;
+	flex-direction: row;
+}
+#examples	{
+	width: 25%;
+	text-align: center;
+
+}
+.pics {
+	width: 60%;
+	border: 2px white solid;
+
+}
+h1	{
+	color: #ec7e38;
+	text-align: center;
+	margin: 10px;
+	padding: 5px;
+
+}
+h5	{
+	margin: 0px;
+}
+
+.frozen	{
+	background-color: #ec7e38;
+}
+.beach	{
+	background-color: #e8834b;
+}
+.tree	{
+	background-color: #e89160;
+}
+.coast	{
+	background-color: #e89d74;
+}
+
+/*
+#ec7e38 - orange
+#e8834b - lighter orange
+#e89160 - lighter lighter orange
+#e89d74 - lightest orange
+#4f4e4d - gray
+	*/
+
+.cleared {
+	display: flow-root;
+
+}
+.famous	{
+	border: #ec7e38 2px solid;
+	float: right;
+	margin: 20px;
 	
+}
+p 	{
+	text-align: justify;
 }
