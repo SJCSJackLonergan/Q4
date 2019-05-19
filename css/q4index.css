@@ -59,12 +59,11 @@ h2	{
 li	{
 	margin: 20px;
 }
-.profilepic	{
-	width: 50%;
+
 	
 }
 p	{
-	width: 80%;
+	width: 60%;
 	font-family: ;
 	font-size: 20px;
 	text-align: center;
@@ -74,5 +73,14 @@ p	{
 	float: right;
 }
 .pagepic	{
-	width: 30%;
+	width: 10%;
+}
+.asidep	{
+	
+	text-align: center;
+}
+.nav	{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
 }
