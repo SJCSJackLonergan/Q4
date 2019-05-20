@@ -5,12 +5,18 @@
 	color: white;
 	text-decoration: none;
 	margin: 20px;
+}
 
+a:visited	{
+	color: #e89d74;
 }
 .grey	{
 	background-color: grey;
 	text-align: center;
-
+}
+.grey:hover	{
+	background-color: #ec7e38;
+	text-align: center;
 }
 .aspen{
 	background-image: url(../images/aspens_big.jpg);
@@ -119,4 +125,8 @@ footer	{
 	height: 2px;
 	width: 100%;
 	background-color: #ec7e38;
+}
+.helpmeplz {
+	color: #ec7e38;
+	text-decoration: none;
 }

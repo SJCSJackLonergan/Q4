@@ -1,0 +1,99 @@
+.header	{
+	width: 100%;
+}
+.nav	{
+	color: white;
+	text-decoration: none;
+	margin: 20px;
+
+}
+.grey	{
+	background-color: grey;
+	text-align: center;
+
+}
+.ansel{
+	background-image: url(../images/moonrise.jpg);
+	height: 60vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+
+.original	{
+	background-color: white;
+	font-size: 40px;
+	opacity: .5;
+	padding: 5px;
+
+}
+
+.flexin	{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.point	{
+	height: ;
+	width: 49.6%;
+	text-align: center;
+	margin: .1%;
+	padding: .1%;
+	align-items: center;
+	background-size: cover;
+
+
+}
+.alpha	{
+	background-color: #ec7e38;
+}
+.bravo	{
+	background-color: #e8834b;
+}
+.charlie	{
+	background-color: #e89160;
+}
+.delta	{
+	background-color: #e89d74;
+}
+/*
+#ec7e38 - orange
+#e8834b - lighter orange
+#e89160 - lighter lighter orange
+#e89d74 - lightest orange
+#4f4e4d - gray
+	*/
+
+body	{
+	background-color: black;
+	color: #4f4e4d;
+}
+h1	{
+	text-decoration: underline #4f4e4d;
+}
+.cleared	{
+	display: flow-root;
+}
+.left	{
+	float: left;
+	width: 30%;
+
+}
+img {
+	height: 100%;
+}
+footer	{
+	color: #ec7e38;
+	display: flex;
+	flex-direction: row;
+	border-top:  #ec7e38 solid 2px;
+	border-bottom:  #ec7e38 solid 2px;
+	justify-content: space-around;
+	margin: 10px;
+}
